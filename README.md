@@ -33,7 +33,7 @@ Using optical flow to detect high-motion frames and a **Projected Gradient Desce
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/FeatureFool.git
+git clone https://github.com/bytefastbit/FeatureFool.git
 cd FeatureFool
 
 # 2. Create and activate environment (recommended: Anaconda)
